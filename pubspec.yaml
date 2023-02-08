@@ -1,6 +1,6 @@
 name: ramp_flutter
 description: Official Flutter wrapper for Ramp
-version: 1.0.1
+version: 1.0.2
 homepage: https://ramp.network/
 
 environment:
